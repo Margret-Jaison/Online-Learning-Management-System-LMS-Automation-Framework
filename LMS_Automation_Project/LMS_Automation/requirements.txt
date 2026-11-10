@@ -1,7 +1,0 @@
-flask
-pytest
-pytest-playwright
-playwright
-pytest-html
-pytest-xdist
-pytest-rerunfailures
